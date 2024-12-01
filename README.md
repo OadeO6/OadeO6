@@ -45,10 +45,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=OadeO6&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OadeO6&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=OadeO6&theme=gruvbox" />
-<a href="https://github.com/OadeO6/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OadeO6&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/OadeO6/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OadeO6&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/OadeO6/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OadeO6&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/OadeO6/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OadeO6&repo=logstash-pipelines&theme=gruvbox""></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OadeO6.OadeO6)
