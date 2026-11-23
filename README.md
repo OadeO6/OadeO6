@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Abdurrahman, a full stack software engineer.
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me adenowo.abdurrahman06@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Love Linux
